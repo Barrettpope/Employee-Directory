@@ -31,7 +31,7 @@ To use this application, run the command "npm start" in your CLS. You will then 
 
 ## Visuals
 
-![](images/visual.jpg)
+![](images/visuals.jpg)
 
 ## Deployed Application
 
