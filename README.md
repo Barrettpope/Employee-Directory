@@ -33,7 +33,7 @@ To use this application, run the command "npm start" in your CLS. You will then 
 
 ![](images/visuals.jpg)
 
-## Deployed Application
+## Deployment
 
 https://barrettpope.github.io/Employee-Directory/
 
