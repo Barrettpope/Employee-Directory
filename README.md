@@ -6,7 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Visuals](#visuals)
-- [Deployed Application](#deployed)
+- [Deployment](#deployment)
 - [Contributing](#contributing)
 - [Support](#support)
 
